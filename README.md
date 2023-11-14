@@ -1,5 +1,5 @@
-# ChainTool
-一个让更多人轻松操作链上的工具集合箱，一键发币、创建预售（IDO）Dapp、创建挖矿Dapp，行情总览, 批量查余额、批量创建地址、批量发送和归集代币等功能。
+# TokenTool
+一个让更多人轻松操作链上的工具集合箱，一键发币、创建预售（IDO）Dapp、创建挖矿Dapp，SWAP, 批量创建钱包、批量发送和归集代币等功能。
 
 #### 原文链接：https://chaintool.app/
 
@@ -7,8 +7,12 @@
 
 ##### 引用地址：
 
-###### 创建预售(IDO)
-https://chaintool.app/#/launchpad/standard 
+###### 创建预售 私募 (IDO)
+https://chaintool.app/#/launchpad/standard 标准版
+
+https://chaintool.app/#/launchpad/advanced  高级版
+
+https://chaintool.app/#/launchpad/advanced  多期版
 
 ###### 一键发币
 https://chaintool.app/#/coin/standard  标准代币
@@ -23,10 +27,22 @@ https://chaintool.app/#/coin/compound  复利代币
 
 https://chaintool.app/#/coin/lpdividend  加池分红
 
-https://chaintool.app/#/coin/snapshot 快照
-
 ###### 创建挖矿
-https://chaintool.app/#/mining/standard
+https://chaintool.app/#/mining/standard 自由版
+
+https://chaintool.app/#/mining/chef   锁仓版
+
+https://chaintool.app/#/mining/chefPro 减半版
+
+https://chaintool.app/#/mining/chefPlus 高级版
+
+###### SWAP
+
+https://chaintool.app/#/swap/myLp  我的流动性
+
+https://chaintool.app/#/swap/add   添加流动性
+
+https://chaintool.app/#/swap/exchange  兑换
 
 ###### 创建锁仓
 https://chaintool.app/#/lock/index
