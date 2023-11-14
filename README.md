@@ -3,7 +3,7 @@
 
 #### 原文链接：https://chaintool.app/
 
-![image text](https://github.com/chaintoolapp/ChainTool/blob/main/img/web1.PNG "web view")
+![image text](https://github.com/chaintoolapp/ChainTool/blob/main/img/chain.PNG "web view")
 
 ##### 引用地址：
 
